@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>verde</first_name>
+	<last_name>l</last_name>
+	<phone_number>l</phone_number>
+	<notes>era azul</notes>
+</contact>
+<contact>
+	<first_name>outro</first_name>
+	<last_name>kjkj</last_name>
+	<phone_number>kjkj</phone_number>
+	<notes>kjkj</notes>
+</contact>
+<contact>
+	<first_name>1</first_name>
+	<last_name>1</last_name>
+	<phone_number>1</phone_number>
+	<notes>1</notes>
+</contact>
+<contact>
+	<first_name>3</first_name>
+	<last_name>3</last_name>
+	<phone_number>3</phone_number>
+	<notes>3</notes>
+</contact>
+</contacts>
